@@ -1,0 +1,15 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "request header parser microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "animsaj",
+  "license": "ISC",
+  "dependencies": {
+    "ipware": "^1.0.0"
+  }
+}
