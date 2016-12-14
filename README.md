@@ -1,4 +1,4 @@
-#Request Header parser
+#Request Header Parser
 
 Request Header parser is microservice that shows to the user his ip address, language and OS.
 Has no dependencies.
